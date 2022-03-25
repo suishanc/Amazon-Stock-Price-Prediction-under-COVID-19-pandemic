@@ -1,0 +1,3 @@
+# Amazon-Stock-Price-Prediction-under-COVID-19-pandemic
+
+The project purposes analyze and forecast Amazon stock prices. The global economy was affected disruptively due to the COVID-19 outbreak. The reason why the technology sector especially Amazon performed much better than other industries in the unstable period is noteworthy. To predict the stock prices, the Monte Carlo simulation was adopted in the project. In the prediction result, we figured out the stock price increase and keep stable under the COVID-19 pandemic. The reasons behind this could be because of the changes in customer behavior and company policies.
